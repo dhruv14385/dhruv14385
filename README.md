@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhruv14385
-- 👀 I’m interested in python and data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python scripts
+- 👀 I’m interested in DevOps 
+- 🌱 I’m currently learning Shell Scripting and Kubernetes
 - 📫 How to reach me dhruv14385@gmail.com
 
 <!---
