@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruv14385
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Shell Scripting and Kubernetes
+- 👀 I am on Github to showcase my skills in Devops Engineering.  
+- 🌱 I’m currently working on some hands-on projects and putting them here in repositories.
 - 📫 How to reach me dhruv14385@gmail.com
 
 <!---
